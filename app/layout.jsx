@@ -5,7 +5,11 @@ import { Header } from '../components/header';
 export const metadata = {
     title: {
         template: '%s | Netlify',
-        default: 'Netlify Starter'
+        default: 'Tangerang: Kota Industri yang Kini Bertransformasi Menadi Surga Bisnis Modern'
+    },
+    description: {
+        template: '%s | Netlify',
+        default: 'Sebagai salah satu kota dengan pertumbuhan ekonomi tercepat di Indonesia, Tangerang telah lama melampaui identitasnya sebagai hinterland Jakarta.'
     }
 };
 
