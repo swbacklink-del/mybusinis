@@ -33,7 +33,87 @@ export default function Page() {
                 <Link href="https://docs.netlify.com/frameworks/next-js/overview/" className="btn btn-lg sm:min-w-64">
                     Read the Docs
                 </Link>
+                <header>
+                    <h1>Tangerang: Kota Industri yang Kini Bertransformasi Menjadi Surga Bisnis Modern</h1>
+                    <p>Peluang, Strategi, dan Wawasan Lengkap untuk Berbisnis di Tangerang</p>
+                </header>
+                <div class="image-container">
+                    <img src="https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&q=80&w=1500" alt="Pemandangan Kota Tangerang dengan gedung-gedung modern dan kawasan industri" width="800" />
+                    <p class="caption">Skyline modern Kota Tangerang yang menunjukkan paduan kawasan industri dan perkantoran baru, mencerminkan dinamika bisnis yang tumbuh pesat.</p>
+                </div>
             </section>
+            <section>
+            <p>Sebagai salah satu kota dengan pertumbuhan ekonomi tercepat di Indonesia, Tangerang telah lama melampaui identitasnya sebagai <em>hinterland</em> Jakarta. Kota ini telah bertransformasi menjadi pusat bisnis yang mandiri, dinamis, dan penuh peluang. Terletak strategis di Provinsi Banten dan berbatasan langsung dengan Ibu Kota, Tangerang menawarkan ekosistem bisnis yang unik: paduan kekuatan industri manufaktur tradisional dengan geliat bisnis modern di bidang teknologi, properti, dan jasa. Jika Anda mencari tempat untuk merintis, mengembangkan, atau bahkan memindahkan usaha, memahami lanskap bisnis di Tangerang adalah langkah pertama yang crucial.</p>
+            
+            <p>Artikel ini akan membedah secara lengkap potensi, peluang, tantangan, dan strategi untuk masuk ke dalam dunia bisnis di Tangerang. Kita akan jelajahi mulai dari sektor-sektor unggulan, prosedur perizinan, hingga tips memilih lokasi yang tepat.</p>
+        </section>
+
+        <section>
+            <h2>Mengapa Memilih Tangerang Sebagai Basis Bisnis Anda?</h2>
+            <p>Alasan utama para investor, dari UKM hingga korporasi multinasional, menanamkan modalnya di Tangerang tidak lepas dari beberapa faktor fundamental yang sulit ditemukan di tempat lain.</p>
+            
+            <h3>Lokasi Strategis dan Aksesibilitas Tinggi</h3>
+            <p>Tangerang terhubung sempurna dengan Jakarta melalui berbagai jalur tol (Tol Jakarta-Merak, Tol Tangerang-Merak, Tol JORR) dan jalan nasional. Bandara Internasional Soekarno-Hatta yang merupakan gerbang utama Indonesia, secara administratif berada di wilayah Tangerang. Menurut data dari <span class="keyword">Badan Pusat Statistik (BPS) Kota Tangerang</span>, arus logistik dan manusia melalui bandara ini memberikan dampak multiplier yang signifikan bagi sektor perdagangan dan jasa di kota ini.</p>
+            
+            <h3>Infrastruktur yang Terus Berkembang</h3>
+            <p>Pemerintah terus berinvestasi dalam infrastruktur. Keberadaan kawasan-kawasan industri terpadu seperti GIIC (Greenland International Industrial Center) dan MITC (Modern Industrial and Technology Center) dilengkapi dengan infrastruktur kelas dunia. Tidak hanya itu, pembangunan pusat perbelanjaan, rumah sakit, dan kawasan permukiman elite menciptakan ekosistem yang lengkap bagi pebisnis dan karyawan.</p>
+            
+            <h3>Ketersediaan Tenaga Kerja yang Kompeten</h3>
+            <p>Dekatnya Tangerang dengan Jakarta dan adanya banyak universitas dan politeknik di sekitarnya (seperti Universitas Multimedia Nusantara, Swiss German University, dll.) menjamin ketersediaan tenaga kerja terampil, baik untuk level operator maupun manajerial.</p>
+            
+            <h3>Iklim Investasi yang Kondusif</h3>
+            <p>Pemerintah Kota Tangerang dan Kabupaten Tangerang dikenal pro-investasi. Layanan perizinan seperti Online Single Submission (OSS) terus dimudahkan untuk mempercepat dimulainya sebuah usaha. Menurut <span class="keyword">Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu (DPMPTSP) Kota Tangerang</span>, waktu perizinan usaha untuk beberapa sektor telah dipangkas hingga 50% dalam beberapa tahun terakhir.</p>
+        </section>
+
+        <section>
+            <h2>Sektor-Sektor Bisnis Unggulan di Tangerang</h2>
+            <p>Lanskap perekonomian Tangerang sangat beragam. Berikut adalah sektor-sektor yang menjadi tulang punggung dan memiliki prospek cerah untuk masa depan.</p>
+            
+            <h3>Kawasan Industri dan Manufaktur</h3>
+            <p>Ini adalah DNA ekonomi Tangerang. Puluhan kawasan industri berjejer dari Tangerang Selatan hingga ke Kabupaten Tangerang. Sektor ini menampung ratusan perusahaan multinasional dan nasional.</p>
+            
+            <div class="highlight">
+                <p><strong>Subsektor Andalan:</strong> Otomotif (seperti Honda, Yamaha), elektronik, tekstil, makanan dan minuman, serta barang kimia.</p>
+                <p><strong>Peluang:</strong> Bukan hanya untuk investor besar. UKM memiliki peluang besar sebagai vendor atau penyedia jasa pendukung (supporting industry) seperti percetakan packaging, komponen spare part, hingga jasa logistik.</p>
+            </div>
+            
+            <h3>Bisnis Properti dan Real Estate</h3>
+            <p>Transformasi Tangerang dari kota industri menjadi kota metropolitan lengkap memicu ledakan di sektor properti. Kebutuhan akan perumahan, apartemen, ruang kantor, dan ruko sangat tinggi.</p>
+            
+            <div class="highlight">
+                <p><strong>Area Hotspot:</strong> BSD City, Alam Sutera, Gading Serpong, Lippo Village, dan Kota Tangerang Selatan.</p>
+                <p><strong>Peluang:</strong> Pengembangan properti komersial (seperti co-working space, retail strip, dan apartemen hemat energi), serta jasa terkait properti seperti agen penjualan, konsultan interior, dan property management.</p>
+            </div>
+            
+            <div class="image-container">
+                <img src="https://images.unsplash.com/photo-1600591362801-4dde5d38e6d6?auto=format&fit=crop&q=80&w=1500" alt="Kawasan bisnis dan properti modern di Tangerang" width="800" />
+                <p class="caption">Kawasan bisnis dan properti modern di Tangerang menawarkan peluang investasi yang menguntungkan.</p>
+            </div>
+            
+            <h3>Pusat Perbelanjaan dan Retail</h3>
+            <p>Tangerang adalah surga bagi pebisnis retail. Daya beli masyarakat yang tinggi diimbangi dengan banyaknya pusat perbelanjaan modern.</p>
+            
+            <div class="highlight">
+                <p><strong>Fakta:</strong> Menurut <span class="keyword">Asosiasi Pengelola Pusat Belanja Indonesia (APPBI)</span>, Tangerang memiliki lebih dari 20 mall besar dengan tingkat okupansi rata-rata di atas 85% pasca pandemi.</p>
+                <p><strong>Peluang:</strong> Membuka gerai franchise makanan & minuman (F&B), retail fashion, toko produk spesialis (hobi, olahraga, elektronik), atau menyediakan jasa di dalam mall seperti daycare center atau tempat hiburan.</p>
+            </div>
+            
+            <h3>Kuliner dan Makanan</h3>
+            <p>Kuliner adalah jiwa dari setiap kota. Masyarakat Tangerang yang heterogen dari berbagai suku dan budaya memiliki selera kuliner yang sangat beragam dan dinamis.</p>
+            
+            <div class="highlight">
+                <p><strong>Tren:</strong> Makanan kekinian (fusion food), cafe instagrammable, dan makanan sehat (healthy food) sedang sangat digemari.</p>
+                <p><strong>Peluang:</strong> Membuka resto dengan konsep unik, layanan catering corporate untuk pabrik-pabrik, dan memanfaatkan platform delivery online seperti GoFood dan GrabFood.</p>
+            </div>
+            
+            <h3>Teknologi dan Startup Digital</h3>
+            <p>Ekosistem digital di Tangerang, terutama di kawasan Gading Serpong dan Alam Sutera, sedang tumbuh subur. Banyak startup lahir dari kawasan ini.</p>
+            
+            <div class="highlight">
+                <p><strong>Fokus:</strong> E-commerce, fintech, edutech, dan software development.</p>
+                <p><strong>Peluang:</strong> Membuka software house, menjadi mitra pengembang aplikasi, atau memulai startup yang menyelesaikan masalah spesifik di wilayah Tangerang, seperti logistik antar pabrik atau platform jasa home service.</p>
+            </div>
+        </section>
            
         </div>
     );
