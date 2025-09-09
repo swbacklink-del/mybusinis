@@ -10,7 +10,7 @@ export const metadata = {
     description: {
         template: '%s | Netlify',
         default: 'Sebagai salah satu kota dengan pertumbuhan ekonomi tercepat di Indonesia, Tangerang telah lama melampaui identitasnya sebagai hinterland Jakarta.'
-    }
+    },
 };
 
 export default function RootLayout({ children }) {
